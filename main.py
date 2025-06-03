@@ -13,7 +13,6 @@ MIME_TYPES = {
     '.css': 'text/css',
     '.jpg': 'image/jpeg',
     '.png': 'image/png',
-    '.txt': 'text/plain',
 }
 
 # Salva nel file log.txt le richieste ricevute con timestamp.
