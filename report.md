@@ -40,7 +40,7 @@ Le richieste HTTP vengono ricevute in formato testuale e viene effettuato il par
 - Se il file non esiste, viene restituita una pagina HTML generica con codice `404 Not Found`.
 
 ### 3.4 MIME Types
-È presente una mappatura base per estensioni comuni: `.html`, `.css`, `.jpg`, `.png`, ecc.
+È presente una mappatura base per estensioni comuni: `.html`, `.css`, `.jpg` e `.png`.
 
 ### 3.5 Logging
 Tutte le richieste gestite vengono registrate nel file `log.txt`, riportando il tipo di richiesta, la risorsa e il risultato (200 o 404).
@@ -61,7 +61,7 @@ Tutte le richieste gestite vengono registrate nel file `log.txt`, riportando il 
 ### 4.3 Immagini
 Sono presenti due sottocartelle:
 - `coppe/`: contiene immagini relative a trofei.
-- `loghi/`: contiene loghi numerati da 01 a 10.
+- `loghi/`: contiene tutti i loghi.
 
 ## 5. Esecuzione del server
 
