@@ -49,8 +49,8 @@ Tutte le richieste gestite vengono registrate nel file `log.txt`, riportando il 
 
 ### 4.1 Pagine HTML
 - `index.html`: pagina principale, presenta il sito relativo all'ACMilan,
-- `biglietti.html`: informazioni per l’acquisto delle diverse tipologie di biglietti,
-- `contatti.html`: contatti e informazioni utili riguardati le pagine social del Milan,
+- `biglietti.html`: link per l’acquisto delle diverse tipologie di biglietti,
+- `contatti.html`: link riguardanti le pagine social del Milan,
 - `storia.html`: storia della società, dello stadio e del logo,
 - `trofei.html`: palmares delle vittorie.
 
@@ -60,8 +60,8 @@ Tutte le richieste gestite vengono registrate nel file `log.txt`, riportando il 
 
 ### 4.3 Immagini
 Sono presenti due sottocartelle:
-- `coppe/`: contiene immagini relative a trofei.
-- `loghi/`: contiene tutti i loghi.
+- `coppe/`: contiene immagini relative a trofei,
+- `loghi/`: contiene tutti i loghi della storia del Milan.
 
 ## 5. Esecuzione del server
 
